@@ -1,0 +1,338 @@
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 240
+7/29/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 240
+7/29/2013
+
+Object reference not set to an instance of an object.
+   at SmartSync.usbDevice.LoadDevice()
+7/29/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_Removed()
+   at SmartSync.Form2.NotifyRemoval(String lt)
+7/29/2013
+
+Object reference not set to an instance of an object.
+   at SmartSync.usbDevice.LoadDevice()
+7/29/2013
+
+Object reference not set to an instance of an object.
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 235
+7/29/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 240
+7/29/2013
+
+Could not find a part of the path 'H:\flash\Example Aero Controls\Example Aero Controls\bin'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path)
+   at SmartSync.usbDevice.CopyFolderAsync(String source, String destination) in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 558
+7/29/2013
+
+Could not find a part of the path 'H:\flash\Example Aero Controls\Example Aero Controls\obj'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path)
+   at SmartSync.usbDevice.CopyFolderAsync(String source, String destination) in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 558
+7/29/2013
+
+Could not find a part of the path 'H:\flash\Example Aero Controls\Example Aero Controls\obj\Debug\TempPE'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path)
+   at SmartSync.usbDevice.CopyFolderAsync(String source, String destination) in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 558
+7/29/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 241
+7/29/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_Removed() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 67
+   at SmartSync.Form2.NotifyRemoval(String lt) in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Form2.cs:line 514
+7/29/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 241
+7/29/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_Removed() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 67
+   at SmartSync.Form2.NotifyRemoval(String lt) in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Form2.cs:line 457
+7/29/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 241
+7/29/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 241
+7/30/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 241
+7/30/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 241
+7/30/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_Removed()
+   at SmartSync.Form2.NotifyRemoval(String lt)
+7/30/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 240
+7/30/2013
+
+An error occurred creating the configuration section handler for userSettings/SmartSync.Properties.Settings: Could not load file or assembly 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified. (C:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\bin\Debug\SmartSync.vshost.exe.Config line 5)
+   at System.Configuration.BaseConfigurationRecord.FindAndEnsureFactoryRecord(String configKey, Boolean& isRootDeclaredHere)
+   at System.Configuration.BaseConfigurationRecord.GetSectionRecursive(String configKey, Boolean getLkg, Boolean checkPermission, Boolean getRuntimeObject, Boolean requestIsHere, Object& result, Object& resultRuntimeObject)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey, Boolean getLkg, Boolean checkPermission)
+   at System.Configuration.BaseConfigurationRecord.GetSection(String configKey)
+   at System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   at System.Configuration.ConfigurationManager.GetSection(String sectionName)
+   at System.Configuration.ClientSettingsStore.ReadSettings(String sectionName, Boolean isUserScoped)
+   at System.Configuration.LocalFileSettingsProvider.GetPropertyValues(SettingsContext context, SettingsPropertyCollection properties)
+   at System.Configuration.SettingsBase.GetPropertiesFromProvider(SettingsProvider provider)
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at SmartSync.Properties.Settings.get_autosync() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\Properties\Settings.Designer.cs:line 103
+   at SmartSync.usbDevice.LoadDevice() in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 240
+7/30/2013
+
+Could not find a part of the path 'H:\flash\Example Aero Controls\Backup'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path)
+   at SmartSync.usbDevice.CopyFolderAsync(String source, String destination) in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 558
+7/30/2013
+
+Could not find a part of the path 'H:\flash\Example Aero Controls\Example Aero Controls\bin'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path)
+   at SmartSync.usbDevice.CopyFolderAsync(String source, String destination) in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 558
+7/30/2013
+
+Could not find a part of the path 'H:\flash\Example Aero Controls\Example Aero Controls\obj'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path)
+   at SmartSync.usbDevice.CopyFolderAsync(String source, String destination) in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 558
+7/30/2013
+
+Could not find a part of the path 'H:\flash\Example Aero Controls\Example Aero Controls\obj\Debug\TempPE'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path)
+   at SmartSync.usbDevice.CopyFolderAsync(String source, String destination) in c:\Users\OgbonnaIC\project\cmpny\SmartSync3\SmartSync3\SmartSync\SmartSync\usbDevice.cs:line 558
+7/30/2013
+
